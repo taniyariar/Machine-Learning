@@ -9,6 +9,7 @@ Decision Tree From Scratch
     -> A decision node will have question 
     
     -> A leaf node will have max class label counts or prediction class
+ -> depth - depth of the tree
     
 -> Sklearn Lab
 
