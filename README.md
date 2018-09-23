@@ -12,6 +12,6 @@ Decision Tree From Scratch
     
 -> Sklearn Lab
 
-  -> Using Neural net to solve the XOR gate problem
+    -> Using Neural net to solve the XOR gate problem
   
-  -> Creating a neural net to solve a classification problem using Wine dataset from sklearn to understand the machine learning project           lifecyle
+    -> Creating a neural net to solve a classification problem using Wine dataset from sklearn to understand the machine learning project           lifecyle
