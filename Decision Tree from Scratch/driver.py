@@ -6,7 +6,6 @@ from sklearn import datasets
 import random
 
 #Author: Taniya Riar
-#The link was not available. Added the iris dataset from sklearn datasets library.
 iris = datasets.load_iris()
 
 #Storing the class names or the target names ['setosa' -> 0.0,'versicolor' -> 1.0,'virginica' -> 2.0] 
