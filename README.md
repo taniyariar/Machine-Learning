@@ -18,6 +18,7 @@ Decision Tree From Scratch
     -> Creating a neural net to solve a classification problem using Wine dataset from sklearn to understand the machine learning project           lifecyle
  
  -> KMeans from Scratch
+ 
     -> Clustering tweets by utilizing Jaccard Distance metric and K-means clustering algorithm.
         Objectives:
         1.  Compute the similarity between tweets using the Jaccard Distance metric.
